@@ -5,8 +5,8 @@ Readme 1
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/9vishwashah/">
-  <img  src="https://github.com/9vishwashah/9vishwashah/blob/main/resources/img/grid-snake.svg"
+  <a href="https://9vishwashah.github.io/9vishwashah/">
+  <img  src="https://github.com/9vishwashah/9vishwashah/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -20,7 +20,7 @@ Readme 1
       <a href="https://www.linkedin.com/in/9vishwasahah/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-<!--       <a href="https://fb.com/1999AZZAR" target="blank"><img align="center" -->
+      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center" 
    src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" 
          alt="azzar" height="30"/></a>
       <a href="https://mailto:9vishwashah@gmail.com" target="blank"><img align="center"
@@ -28,7 +28,7 @@ Readme 1
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-<!--       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center" -->
+       <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center" 
         m src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+91 9594503214" target="blank"><img align="center"
