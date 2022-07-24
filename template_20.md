@@ -19,7 +19,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/9vishwashah" target="blank"><img align="center" src="https://img.shields.io/badge/9vishwashah?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/9vishwashah" target="blank"><img align="center" src="https://img.shields.io/badge/9vishwashah?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/9vishwashah" target="blank"><img align="center" src="https://img.shields.io/badge/9vishwashah?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -50,7 +50,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=9vishwashah&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=9vishwashah&repo=California_Housing_Prices)](https://github.com/9vishwashah/)
 
 <Br>
 <hr>
@@ -70,7 +70,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=9vishwashah&show_icons=true&theme=merko)](https://github.com/9vishwashah/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9vishwashah&layout=compact&theme=merko)](https://github.com/9vishwashah/github-readme-stats)
 
  
 <Br>
