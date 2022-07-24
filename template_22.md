@@ -1,27 +1,23 @@
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+<!-- ![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ -->
+### Hello! I'm Vishwa Shah a Full Stack Developer from India.
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Portfolio: https://9vishwashah.github.io
 
-### Portfolio: https://brdhanani.github.io
-
-<a href="https://twitter.com/dhanani_brijesh">
+<a href="https://twitter.com/9vishwashah">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+<a href="https://www.linkedin.com/in/9vishwashah">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
+<!-- <a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/singer_brijesh_dhanani">
+</a> -->
+<!-- <a href="https://www.instagram.com/singer_brijesh_dhanani">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://youtu.be/X_zgw9GojSc">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
+</a> -->
 <br />
 <br />
 
@@ -57,9 +53,9 @@
 [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=9vishwashah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vishwa Shah's Github Stats">
 </p>
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=9vishwashah.9vishwashah" alt="visitor badge"/>
 </p>
